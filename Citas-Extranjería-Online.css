@@ -259,6 +259,10 @@
     padding-right: 10px;
   }
 
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 20px;
+  }
+
   .u-section-1 .u-container-layout-4 {
     padding-left: 10px;
     padding-right: 10px;
@@ -543,5 +547,9 @@
   .u-section-3 .u-btn-1 {
     margin-right: 29px;
     margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-3 {
+    font-size: 1.3125rem;
   }
 }
